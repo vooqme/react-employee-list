@@ -37,7 +37,7 @@
     "redux-devtools-extension": "^2.13.8",
     "redux-persist": "^5.10.0",
     "redux-saga": "^1.0.5",
-    "sequelize": "^4.42.0",
+    "sequelize": "^5.15.1",
     "sqlite3": "^4.0.6"
   },
   "devDependencies": {
