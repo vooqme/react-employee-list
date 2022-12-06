@@ -16,7 +16,7 @@
     "cors": "^2.8.5",
     "dotenv": "^8.0.0",
     "es6-promise": "4.1.1",
-    "express": "~4.13.4",
+    "express": "~4.17.3",
     "final-form": "^4.16.2",
     "isomorphic-unfetch": "2.0.0",
     "next": "^7.0.0",
